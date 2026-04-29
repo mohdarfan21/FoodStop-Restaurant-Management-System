@@ -2,6 +2,11 @@
 ## Overview
 - This project is a command-line based Restaurant Management System developed using Python and MySQL. It is designed to manage basic restaurant operations such as menu handling, order processing, and billing. The system demonstrates fundamental concepts of database integration, structured programming, and user interaction.
 ---
+## Team & Timeline
+- Developed in a 3-person team as project lead
+- Completed in 3 days instead of the planned 7
+- Responsibilities: project planning, task distribution, progress tracking
+---
 ## Features
 - Add, view, update, and delete menu items
 - Place and manage customer orders
